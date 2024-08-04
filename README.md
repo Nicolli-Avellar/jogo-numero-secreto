@@ -11,6 +11,9 @@
         <li><strong>Objetivo</strong>: Continuar fazendo tentativas e interpretando as dicas até descobrir o número secreto.</li>
 </ol>
 
+ <h2>🕹️ Como Executar</h2>
+    <p>Para acessar o jogo, visite o seguinte link: <a href="https://jogo-weld-two.vercel.app/" target="_blank">jogo-numero-secreto-nicolli-avellars</a></p>
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
